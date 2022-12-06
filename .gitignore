@@ -1,0 +1,5 @@
+#忽略index.css文件
+index.css
+
+#忽略text下所有文件
+text/
